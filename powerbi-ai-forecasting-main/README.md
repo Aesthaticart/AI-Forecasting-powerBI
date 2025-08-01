@@ -68,13 +68,3 @@ You can find the modeling code in:
 
 ---
 
-## 🤝 Contribution
-
-This is a solo public project but feel free to fork, reuse, or give feedback. The goal is to contribute to the community and improve learning around modern BI & AI practices.
-
----
-
-## 📧 Contact
-
-Made with ❤️ by João Borboni  
-[LinkedIn](https://www.linkedin.com/in/joao-borboni/) | [Email](mailto:joaoborboni@hotmail.com)
